@@ -1,0 +1,4 @@
+# Directory used for building. Files in this directory should not appear in the git repository.
+*
+# Except this file
+!.gitignore
